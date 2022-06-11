@@ -1,6 +1,11 @@
-## Hi there 👋
+<img src="extras/logo.gif" width="50%">
+
+Bienvenido, somos una agencia de Desarrollo de Software.
+
+Nuestro foco está en la programación, la experiencia de usuario y el impacto de grandes ideas.
 
 <!--
+## Hi there 👋
 
 **Here are some ideas to get you started:**
 
