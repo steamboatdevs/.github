@@ -1,4 +1,4 @@
-<img src="extras/logo.gif" width="50%">
+<img src="https://github.com/steamboatdevs/.github/raw/main/profile/extras/logo.gif" width="50%">
 
 Bienvenido, somos una agencia de Desarrollo de Software.
 
